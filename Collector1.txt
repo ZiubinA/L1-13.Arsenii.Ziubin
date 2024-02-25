@@ -1,0 +1,7 @@
+﻿Collector1
+Apost; Country1; 0;colored; 20; 10; 2
+Dpost2; Country2; 2021; white; 26; 15; 1
+Bpost3; Country3; 2019; colored; 7; 7; 1
+Epost4; Country4; 2020; red; 17; 10; 2
+Cpost5; NO; 2021; white; 20; 19; 5
+Apost6; Country6; 2022; blue; 15; 25; 3
